@@ -97,7 +97,7 @@ body {
 
 
 .wrapper {
-    background-image: url(../img/main-bg.webp);
+    background-image: url(..../img/main-bg.webp);
     max-width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -356,7 +356,7 @@ body {
 
 .main__video::before {
   content: "";
-  background-image: url(/img/play-button.png);
+  background-image: url(../img/play-button.png);
   background-size: contain;
   position: absolute;
   top: 45%;
@@ -506,7 +506,7 @@ body {
 }
 .button__inner {
   position: relative;
-  background-image: url(/img/inner-button-bg.png);
+  background-image: url(../img/inner-button-bg.png);
   background-size: contain;
   background-repeat: no-repeat;
   display: flex;
@@ -729,7 +729,7 @@ body {
   }
 
   .wrapper {
-    background-image: url(/img/mobile-bg.png);
+    background-image: url(../img/mobile-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -766,7 +766,7 @@ body {
 /* =======================================================/ */
 
 .kinds__activities {
-  background-image: url(/img/bg-main__copy.png);
+  background-image: url(../img/bg-main__copy.png);
   background-size: cover;
   width: 100%;
   padding-top: 250px;
@@ -800,7 +800,7 @@ body {
 
   }
   .kinds__activities {
-    background-image: url(/img/kinds-bg-mobile.png);
+    background-image: url(../img/kinds-bg-mobile.png);
     background-size: cover;
     
   }
@@ -840,7 +840,7 @@ body {
 
 .kinds__activities-event--inner::before {
   content: "";
-  background-image: url(/img/kinds__activities-event.png);
+  background-image: url(../img/kinds__activities-event.png);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
@@ -853,7 +853,7 @@ body {
 }
 .kinds__activities-business--inner::before {
   content: "";
-  background-image: url(/img/chips/kinds__activities-business.png);
+  background-image: url(../img/chips/kinds__activities-business.png);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
@@ -865,7 +865,7 @@ body {
   z-index: 1;
 }
 .bg-elemetn1{
-  background-image: url(/img/kinds__activities-bg-inner-business.svg);
+  background-image: url(../img/kinds__activities-bg-inner-business.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 307px; 
@@ -878,7 +878,7 @@ body {
   
 }
 .bg-elemetn2 {
-  background-image: url(/img/kinds__activities-bg-inner-business.svg);
+  background-image: url(../img/kinds__activities-bg-inner-business.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 307px; 
@@ -928,7 +928,7 @@ body {
 .kinds__activities-card {
   color: #ffffff;
     display: flex;
-    background-image: url(/img/kinds__activities-card.png);
+    background-image: url(../img/kinds__activities-card.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 193px;
@@ -938,7 +938,7 @@ body {
 
 }
 .kinds__activities-card-opasity {
-  background-image: url(/img/opasity.png);
+  background-image: url(../img/opasity.png);
 }
 
 .kinds__activities-card p {
@@ -955,7 +955,7 @@ body {
 
 }
 .kinds__activities-img--event {
-  background-image: url(/img/kinds__activities-bg-inner-event.svg);
+  background-image: url(../img/kinds__activities-bg-inner-event.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 400px; 
@@ -965,7 +965,7 @@ body {
 
 .kinds__activities-img--business::before {
   content: "";
-  background-image: url(/img/kinds__activities-bg-inner-business.svg);
+  background-image: url(../img/kinds__activities-bg-inner-business.svg);
   background-repeat: no-repeat;
   position: absolute;
   top: 0;
@@ -975,7 +975,7 @@ body {
 }
 .kinds__activities-img--event::before {
   content: "";
-  background-image: url(/img/kinds__activities-bg-inner-event.svg);
+  background-image: url(../img/kinds__activities-bg-inner-event.svg);
   background-repeat: no-repeat;
   position: absolute;
   top: 0;
@@ -997,7 +997,7 @@ body {
 
 .kinds-bow-element {
   position: absolute;
-  background-image: url(/img/chips/chips-bow-element.png);
+  background-image: url(../img/chips/chips-bow-element.png);
   background-size: contain;
   width: 183px;
   height: 138px;
@@ -1025,7 +1025,7 @@ body {
 
 .kinds__activities-element {
   position: absolute;
-  background-image: url(/img/StarI01_2.webp);
+  background-image: url(../img/StarI01_2.webp);
   background-repeat: no-repeat;
   top: 10%;
   right: 0;
@@ -1191,7 +1191,7 @@ body {
 
 
 .chips {
-  background-image: url(/img/chips/chips-bg.png);
+  background-image: url(../img/chips/chips-bg.png);
   background-repeat: no-repeat;
     background-color: #000;
   padding-bottom: 100px;
@@ -1386,7 +1386,7 @@ body {
 }
 .chips__actor-wrapper::before {
   content: "";
-  background-image: url(/img/chips/chips-actor-bg.png);
+  background-image: url(../img/chips/chips-actor-bg.png);
   position: absolute;
   height: 584px;
   z-index: 1;
@@ -1408,7 +1408,7 @@ body {
   text-align: center;
   margin-top: -15px;
   z-index: 4;
-  background-image: url(/img/chips/chips__actor-experience-sub\ .png);
+  background-image: url(../img/chips/chips__actor-experience-sub\ .png);
   background-size: cover;
   color: #ffffff;
   font-size: 16px;
@@ -1427,7 +1427,7 @@ body {
 }
 
 .chips-element-star {
-  background-image: url(/img/chips/chips-element-star.png);
+  background-image: url(../img/chips/chips-element-star.png);
   background-repeat: no-repeat;
   position: absolute;
   bottom: -75px;
@@ -1497,7 +1497,7 @@ body {
     align-items: center;
     width: 490px;
     height: 624px;
-    background-image: url(/img/chips/slide_mobile-bg.svg);
+    background-image: url(../img/chips/slide_mobile-bg.svg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -1533,7 +1533,7 @@ body {
 /* ======================================================== */
 
 .events {
-  background-image: url(/img/events/events-bg.png);
+  background-image: url(../img/events/events-bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-color: #000;
@@ -1649,7 +1649,7 @@ body {
 
 .events__card-content {
   padding: 30px;
-  background-image: url(/img/events/events-card1.png);
+  background-image: url(../img/events/events-card1.png);
   background-size: cover;
   width: 455px;
   height: 236px;
@@ -1668,20 +1668,20 @@ body {
 }
 
 .events__card-content2 {
-  background-image: url(/img/events/events-card2.png);
+  background-image: url(../img/events/events-card2.png);
   animation-name: zoomIn;
   animation-delay: 0.3s;
   transition-delay: 0s;
 }
 .events__card-content3 {
-  background-image: url(/img/events/events-card3.png);
+  background-image: url(../img/events/events-card3.png);
   animation-name: zoomIn;
   animation-delay: 0.6s;
   transition-delay: 0s;
 
 }
 .events__card-content4 {
-  background-image: url(/img/events/events-card4.png);
+  background-image: url(../img/events/events-card4.png);
   animation-name: zoomIn;
   animation-delay: 0.9s;
   transition-delay: 0s;
@@ -1796,35 +1796,35 @@ body {
   }
 
   .events__card-content {
-    background-image: url(/img/events/events-card1-mobile.png);
+    background-image: url(../img/events/events-card1-mobile.png);
     background-repeat: no-repeat;
     background-size: contain;
         width: 319px;
     height: 354px;
   }
   .events__card-content2 {
-    background-image: url(/img/events/events-card2-mobile.png);
+    background-image: url(../img/events/events-card2-mobile.png);
     background-repeat: no-repeat;
     background-size: contain;
         width: 319px;
     height: 354px;
   }
   .events__card-content3 {
-    background-image: url(/img/events/events-card3-mobile.png);
+    background-image: url(../img/events/events-card3-mobile.png);
     background-repeat: no-repeat;
     background-size: contain;
         width: 319px;
     height: 354px;
   }
   .events__card-content4 {
-    background-image: url(/img/events/events-card4-mobile.png);
+    background-image: url(../img/events/events-card4-mobile.png);
     background-repeat: no-repeat;
     background-size: contain;
         width: 319px;
     height: 354px;
   }
   .events {
-    background-image: url(/img/events/events-bg-mobile.png);
+    background-image: url(../img/events/events-bg-mobile.png);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -1856,7 +1856,7 @@ body {
 
 
 .emotions {
-  background-image: url(/img/events/events-bg-bottom.png);
+  background-image: url(../img/events/events-bg-bottom.png);
   background-repeat: no-repeat;
   background-position: top;
   background-color: #000;
@@ -1912,7 +1912,7 @@ body {
 .emotions__inner-card {
 }
 .emotions__content {
-  background-image: url(/img/emotions/emotions-card.png);
+  background-image: url(../img/emotions/emotions-card.png);
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
@@ -1933,7 +1933,7 @@ body {
 }
 
 .emotions__button span {
-  background-image: url(/img/chips/chips-bow-element.png);
+  background-image: url(../img/chips/chips-bow-element.png);
   background-size: contain;
   position: absolute;
   left: 50%;
@@ -1943,7 +1943,7 @@ body {
 }
 
 .emotions__card-arrow-1 {
-  background-image: url(/img/emotions/emotions-arrow.svg);
+  background-image: url(../img/emotions/emotions-arrow.svg);
   width: 47px;
   height: 47px;
   position: absolute;
@@ -1951,7 +1951,7 @@ body {
   left: -4%;
 }
 .emotions__card-arrow-2 {
-  background-image: url(/img/emotions/emotions-arrow.svg);
+  background-image: url(../img/emotions/emotions-arrow.svg);
   width: 47px;
   height: 47px;
   position: absolute;
@@ -1959,7 +1959,7 @@ body {
   left: -4%;
 }
 .emotions__card-arrow-3 {
-  background-image: url(/img/emotions/emotions-arrow.svg);
+  background-image: url(../img/emotions/emotions-arrow.svg);
   width: 47px;
   height: 47px;
   position: absolute;
@@ -1967,7 +1967,7 @@ body {
   left: -4%;
 }
 .emotions__card-arrow-4 {
-  background-image: url(/img/emotions/emotions-arrow.svg);
+  background-image: url(../img/emotions/emotions-arrow.svg);
   width: 47px;
   height: 47px;
   position: absolute;
@@ -1993,7 +1993,7 @@ body {
 }
 .transparency::after {
   content: "";
-  background-image: url(/img/emotions/emotions-bg-bottom.png);
+  background-image: url(../img/emotions/emotions-bg-bottom.png);
   position: absolute;
   top: -56px;
   left: 50%;
@@ -2009,7 +2009,7 @@ body {
   height: 505px;
   background-size:contain;
   background-repeat: no-repeat;
-  background-image: url(/img/transparency/transparency-bg.png);
+  background-image: url(../img/transparency/transparency-bg.png);
   position: absolute;
   left: 50%;
   transform: translate(-50%, 0px);
@@ -2206,7 +2206,7 @@ body {
 
 .form {
   background-color: #000;
-  background-image: url(/img/form/form-bg-main.png);
+  background-image: url(../img/form/form-bg-main.png);
   background-repeat: no-repeat;
   background-position: center;
   padding: 100px  0 200px 0;
@@ -2221,7 +2221,7 @@ body {
   bottom: 0;
   width: 1920px;
   height: 327px;
-  background-image: url(/img/form/form-bg-bottom.svg);
+  background-image: url(../img/form/form-bg-bottom.svg);
   background-size: contain;
   background-repeat: no-repeat;
   z-index: 4;
@@ -2243,7 +2243,7 @@ body {
   height: 1205px;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(/img/form/form-bg.png);
+  background-image: url(../img/form/form-bg.png);
   position: absolute;
   top: -100px;
   left: 44%;
@@ -2256,7 +2256,7 @@ body {
   height: 1205px;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(/img/form/form-overlay-.png);
+  background-image: url(../img/form/form-overlay-.png);
   position: absolute;
   top: -100px;
   left: 44%;
@@ -2372,7 +2372,7 @@ input::after {
 
 }
 .button-form{
-  background-image: url(/img/form/button-form.svg);
+  background-image: url(../img/form/button-form.svg);
   background-repeat: no-repeat;
   background-size: contain;
   cursor: pointer;
